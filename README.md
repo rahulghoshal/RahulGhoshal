@@ -61,18 +61,8 @@ CGPA: 8.97/10.0
 `Streamlit`
 
 **Tools & Technologies**
-`Git` `GitHub` `Jupyter Notebook` `VS Code`
+`GitHub` `Jupyter Notebook` `VS Code`
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulghoshal&show_icons=true&theme=default" alt="Rahul's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulghoshal" alt="Rahul's GitHub Streak" />
-</p>
 
 ---
 
