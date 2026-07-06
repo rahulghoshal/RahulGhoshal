@@ -9,12 +9,11 @@ I'm a Data Science postgraduate with strong foundations in machine learning, sta
 
 ### 🚀 About Me
 
-- 🎓 Pursuing M.Sc. in Data Science at JIS University, Kolkata (CGPA: 9.57/10.0)
-- 💻 Interested in Machine Learning, Artificial Intelligence, Data Analytics, and NLP
+- 🎓 Pursuing M.Sc. in Data Science at JIS University, Kolkata 
+- 💻 Interested in Data Analytics, Machine Learning, and Artificial Intelligence
 - 🌱 Currently learning Advanced Machine Learning, Deep Learning, Power BI, and R Programming
-- 📊 Passionate about Data Visualization and Predictive Analytics
-- 🔬 Interested in Research in Natural Language Processing (NLP) and Healthcare AI
-- 🎯 Goal: Build impactful AI solutions and contribute to real-world data-driven applications
+- 📊 Passionate about continious learning
+- 🎯 Goal: Build impactful solutions and contribute to real-world data-driven applications
 
 ---
 
@@ -50,45 +49,19 @@ CGPA: 8.97/10.0
 `Scikit-learn` `Regression` `Classification` `Clustering` `Feature Engineering` `Model Evaluation` `Hyperparameter Tuning` `Exploratory Data Analysis`
 
 **Data Analysis**
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`
+`Pandas` `NumPy` `Matplotlib` `Seaborn` 
 
 **Data Visualization**
 `Power BI` `Excel` `Matplotlib` `Seaborn`
 
 **Database**
-`MySQL`
+`MySQL` `PostgreSQL`
 
 **Web Frameworks**
 `Streamlit`
 
 **Tools & Technologies**
 `Git` `GitHub` `Jupyter Notebook` `VS Code`
-
----
-
-### 📂 Featured Projects
-
-**🩺 Hypertension Prediction System**
-Built a Random Forest–based hypertension prediction system on 1,980+ patient records across 3 classes (Normal, Prehypertension, Hypertension), achieving **97.4% classification accuracy**. Includes an interactive Streamlit web app for real-time risk prediction from clinical parameters.
-*Tech Stack: Python, Scikit-learn, Pandas, NumPy, Streamlit*
-
-**📊 Customer Behavior Analysis**
-Analyzed a customer purchase dataset with Python (Pandas) for data cleaning, preprocessing, and EDA. Ran analytical SQL queries in MySQL to identify customer segments, purchasing patterns, and discount impact on sales, visualized through an interactive Power BI dashboard.
-*Tech Stack: Python, Pandas, MySQL, Power BI*
-
-**📧 Email Spam Detection**
-A machine learning model that classifies emails as Spam or Ham using Natural Language Processing techniques.
-*Tech Stack: Python, Scikit-learn, NLP*
-
----
-
-### 📚 Currently Learning
-
-- Deep Learning
-- Large Language Models (LLMs)
-- Natural Language Processing
-- MLOps
-- Cloud for Data Science
 
 ---
 
@@ -105,16 +78,10 @@ A machine learning model that classifies emails as Spam or Ham using Natural Lan
 
 ### 📫 Connect With Me
 
-- 💻 GitHub: [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-- 🔗 LinkedIn: [YOUR_LINKEDIN_USERNAME](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-- 🌐 Portfolio: YOUR_PORTFOLIO_URL
+- 💻 GitHub: [YOUR_GITHUB_USERNAME](https://github.com/rahulghoshal)
+- 🔗 LinkedIn: [YOUR_LINKEDIN_USERNAME](https://linkedin.com/in/imrahulghoshal)
+- 🌐 Portfolio: rahulghoshal.github.io
 - 📧 Email: imrahulghoshal@gmail.com
-
----
-
-### 💡 Quote
-
-> "Data is the new oil, but insight is the real fuel."
 
 ---
 
