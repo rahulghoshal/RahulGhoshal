@@ -11,7 +11,7 @@ I'm a Data Science postgraduate with strong foundations in machine learning, sta
 
 - 🎓 Pursuing M.Sc. in Data Science at JIS University, Kolkata 
 - 💻 Interested in Data Analytics, Machine Learning, and Artificial Intelligence
-- 🌱 Currently learning Advanced Machine Learning, Deep Learning, Power BI, and R Programming
+- 🌱 Currently learning Machine Learning, Power BI, and R Programming
 - 📊 Passionate about continious learning
 - 🎯 Goal: Build impactful solutions and contribute to real-world data-driven applications
 
